@@ -48,7 +48,7 @@ Please see [CODE_OF_CONDUCT.md] for further details.
 
 ## Acknowledgments
 
-- Thanks to Philip Laine and Simon Gottschlag at Xenit for generously sharing their insights on [Spegel] with us.
+- Thanks to Philip Laine and Simon Gottschlag at Xenit for generously sharing their insights on [Spegel] with us. We basically stole whole project from him. 
 - Thanks to [DADI P2P Proxy] for demonstrating the integration with [Overlaybd].
 
 ---
